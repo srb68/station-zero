@@ -2,7 +2,7 @@
 
 A first-person survival horror game built in Unity 3D. You wake up alone on a failing orbital space station with no memory of what happened — and hostile security robots patrolling every hallway. Find five hidden power cells, restore power to the control room, and escape on the emergency shuttle before it's too late.
 
-🎮 **[Play in Browser on Unity Play](https://play.unity.com/en/games/station-zero-final-project)**
+🎮 **[Play in Browser on Unity Play](https://play.unity.com/en/games/93fea6eb-ea05-47f7-a921-f9e3a0edb5a9/final-project-build)**
 
 ---
 
